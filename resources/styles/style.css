@@ -260,7 +260,7 @@ h1 {
 	color:white;
 	height: 96vh;
 	text-align: center;
-	background-image: url('assets/banner.jpg');
+	background-image: url('../assets/banner.jpg');
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
