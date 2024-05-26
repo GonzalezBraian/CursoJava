@@ -5,14 +5,6 @@
 const loginUsername = document.getElementById("usernameLog");
 const loginPassword = document.getElementById("passwordLog");
 
-// USUARIO FALSO
-
-let usuarioFalso = [
-  {
-    username: "admin",
-    password: "1234",
-  },
-];
 
 // OBJETO DONDE GUARDO LOS DATOS DE LOS INPUTS
 let datosLogin = { username: "", password: "" };
@@ -24,11 +16,18 @@ function onSubmitLogin(event) {
     alert("Por favor complete todos los datos");
     return;
   }
-  let filtro = usuarioFalso.filter(
-    (user) =>
-      user.username == datosLogin.username &&
-      user.password == datosLogin.password
-  );
+
+  // CAPTURA LA LISTA DE USUARIOS DEL localStorage.
+
+  let usuarios = JSON.parse(localStorage.getItem("users"));
+
+
+  // FILTRO DE USUARIOS , si existe , logea
+
+  let filtro = usuarios.filter((user) => {
+    return user.username == datosLogin.username && user.password == datosLogin.password;
+  });
+
 
   if (filtro.length == 0) {
     alert("Usuario o contraseña incorrectos");
