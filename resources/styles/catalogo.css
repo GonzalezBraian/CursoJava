@@ -1,0 +1,54 @@
+.catalogo {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  max-height: 300vh;
+  width: 100vw;
+}
+
+#catalogo-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  height: calc(100vh - 40px);
+}
+
+.card {
+  width: 20vw;
+  margin-left: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  padding: 10px;
+  text-align: center;
+  margin-top: 20px;
+  box-shadow: 5px 5px 10px rgb(0, 0, 0);
+  transition: transform 0.5s ease;
+  cursor: pointer;
+}
+
+.card:hover {
+  box-shadow: 5px 5px 20px rgb(0, 0, 0);
+  transform: scale(1.1);
+}
+
+.card a img {
+  border-radius: 5%;
+  width: 15vw;
+  height: 20vh;
+}
+
+ /* Agregar una clase de estilo según la cantidad de descargas */
+
+ .bajo-descargas {
+  border: 2px solid red;
+}
+
+#buscador {
+  height: 15vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

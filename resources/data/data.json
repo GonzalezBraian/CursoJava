@@ -1,0 +1,226 @@
+[
+  {
+    "nombre": "Fallout 4",
+    "precio": 4.8,
+    "descargas": 85,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/fallout-4/C3KLDKZBHNCZ/0001",
+    "urlImg": "../assets/fallout.png"
+  },
+  {
+    "nombre": "Call Of Duty - Modern Warfare 3",
+    "precio": 3.8,
+    "descargas": 55,
+    "urlDownload": "https://www.xbox.com/es-ar/games/store/call-of-duty-modern-warfare-iii-lote-multigeneracion/9nb54xtf084m",
+    "urlImg": "../assets/callOfDuty.png"
+  },
+  {
+    "nombre": "Assassin's Creed Shadows",
+    "precio": 2.4,
+    "descargas": 70,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/p/9N9P758CH65M",
+    "urlImg": "../assets/AssassinsCreedShadows.jpg"
+  },
+  {
+    "nombre": "Star Wars Out Laws",
+    "precio": 2.9,
+    "descargas": 65,
+    "urlDownload": "https://www.xbox.com/es-AR/games/star-wars-outlaws",
+    "urlImg": "../assets/StarWars_Outlaws.jpg"
+  },
+  {
+    "nombre": "Immortals Of Aveum",
+    "precio": 4.5,
+    "descargas": 45,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/Immortals-of-Aveum/9NSD4HTWM8HT",
+    "urlImg": "../assets/ImmortalsOfAveum.jpg"
+  },
+  {
+    "nombre": "Microsoft Solitaire Collection",
+    "precio": 3.0,
+    "descargas": 75,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/microsoft-solitaire-collection/9wzdncrfhwd2",
+    "urlImg": "../assets/MicrosoftSolitaireCollection.jpg"
+  },
+  {
+    "nombre": "Manor Lords",
+    "precio": 3.3,
+    "descargas": 60,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/manor-lords/9p5f966564fs",
+    "urlImg": "../assets/ManorLords.jpg"
+  },
+  {
+    "nombre": "Warhammer 40000: Space Marine 2",
+    "precio": 1.5,
+    "descargas": 95,
+    "urlDownload": "https://www.xbox.com/es-AR/games/warhammer",
+    "urlImg": "../assets/Warhammer40000SpaceMarine2.jpg"
+  },
+  {
+    "nombre": "DRAGON BALL Xenoverse 2",
+    "precio": 2.7,
+    "descargas": 80,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/dragon-ball-xenoverse-2/bx03760d0qgn",
+    "urlImg": "../assets/DRAGONBALLXenoverse2.jpg"
+  },
+  {
+    "nombre": "World of Warcraft: Cataclysm Classic",
+    "precio": 4.2,
+    "descargas": 50,
+    "urlDownload": "https://wowclassic.blizzard.com/en-us/?utm_source=xbox&utm_campaign=xbox+placement",
+    "urlImg": "../assets/WorldofWarcraftCataclysmClassic.jpg"
+  },
+  {
+    "nombre": "EA SPORTS College Football 25",
+    "precio": 4.8,
+    "descargas": 85,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/ea-sports-college-football-25/9PDWR1VW0Z4R",
+    "urlImg": "../assets/EASPORTSCollegeFootball25.jpg"
+  },
+  {
+    "nombre": "Diablo® IV: Season 4 Loot Reborn",
+    "precio": 3.8,
+    "descargas": 55,
+    "urlDownload": "https://www.xbox.com/es-AR/games/diablo-iv#whatsnew",
+    "urlImg": "../assets/DiabloIVLootReborn.jpg"
+  },
+  {
+    "nombre": "Max: The Curse of Brotherhood",
+    "precio": 2.4,
+    "descargas": 70,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/max-the-curse-of-brotherhood/C0SFCF4PBRSZ/0001",
+    "urlImg": "../assets/MaxTheCurseofBrotherhood.jpeg"
+  },
+  {
+    "nombre": "Assassin's Creed Revelations",
+    "precio": 2.9,
+    "descargas": 65,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/assassins-creed-revelations/BX2JJ48F0CKR/0001",
+    "urlImg": "../assets/gallery-img1.png"
+  },
+  {
+    "nombre": "HELLBLADE II",
+    "precio": 4.5,
+    "descargas": 45,
+    "urlDownload": "https://www.xbox.com/es-ar/games/store/senuas-saga-hellblade-ii/9pmbb7nghv95",
+    "urlImg": "../assets/senuaSaga.png"
+  },
+  {
+    "nombre": "STARW WARS - Jedi Survivor",
+    "precio": 3.0,
+    "descargas": 75,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/star-wars-jedi-survivor/9PGC82V0DXFS/0010",
+    "urlImg": "../assets/starwarsJediSurvivor.png"
+  },
+  {
+    "nombre": "GOONS - LEYENDS & MAYHEM",
+    "precio": 3.3,
+    "descargas": 60,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/goons-legends-mayhem/9P24MSSJB8F9/0010",
+    "urlImg": "../assets/slider-img.png"
+  },
+  {
+    "nombre": "HALO 5 GUARDIANS",
+    "precio": 1.5,
+    "descargas": 95,
+    "urlDownload": "https://www.xbox.com/es-ar/games/store/halo-5-guardians/brrc2bp0g9p0",
+    "urlImg": "../assets/halo5guardiansback.png"
+  },
+  {
+    "nombre": "ELDEN RING - Shadow of the Erdtree",
+    "precio": 2.7,
+    "descargas": 80,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/elden-ring-shadow-of-the-erdtree-edition/9PMHP6JSXGDH/0010",
+    "urlImg": "../assets/eldenRing.png"
+  },
+  {
+    "nombre": "Final Fantasy XIV Online",
+    "precio": 4.2,
+    "descargas": 50,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/final-fantasy-xiv-online-free-trial/9NGN7D8GJN02/0010",
+    "urlImg": "../assets/finalFantasyXIV.png"
+  },
+  {
+    "nombre": "World Of Warcraft - Shadowlands",
+    "precio": 4.8,
+    "descargas": 85,
+    "urlDownload": "https://worldofwarcraft.blizzard.com/es-es/news/23840670/%C2%A1regresa-a-wow-y-consigue-shadowlands-gratis",
+    "urlImg": "../assets/worldOfWarcraft.png"
+  },
+  {
+    "nombre": "Fornite",
+    "precio": 3.8,
+    "descargas": 55,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/fortnite/BT5P2X999VH2/0001",
+    "urlImg": "../assets/gallery-img3.png"
+  },
+  {
+    "nombre": "HITMAN World of Assassination 1",
+    "precio": 2.4,
+    "descargas": 70,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/hitman-world-of-assassination-part-one/9NT2824TW8VR/0010",
+    "urlImg": "../assets/HITMANWorldofAssassinationPartOne.jpeg"
+  },
+  {
+    "nombre": "Jurassic World Evolution 2",
+    "precio": 2.9,
+    "descargas": 65,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/jurassic-world-evolution-2/9MWHMJ0SRBXV/0010",
+    "urlImg": "../assets/JurassicWorldEvolution2.jpeg"
+  },
+  {
+    "nombre": "Dirt Racing 2023 Ultimate Edition",
+    "precio": 4.5,
+    "descargas": 45,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/world-of-outlaws-dirt-racing-2023-ultimate-edition/9MW7D0DJ065Z/0010",
+    "urlImg": "../assets/DirtRacing2023.jpeg"
+  },
+  {
+    "nombre": "World War Z",
+    "precio": 3.0,
+    "descargas": 75,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/world-war-z/BWQ5FC9WDJ6H/0001",
+    "urlImg": "../assets/WorldWarZ.jpeg"
+  },
+  {
+    "nombre": "Mortal Kombat 11",
+    "precio": 3.3,
+    "descargas": 60,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/mortal-kombat-11/BTC0L0BW6LWC/0001",
+    "urlImg": "../assets/MortalKombat11.jpeg"
+  },
+  {
+    "nombre": "RESIDENT EVIL 2",
+    "precio": 1.5,
+    "descargas": 95,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/resident-evil-2/BWMH951M3G3P/0001",
+    "urlImg": "../assets/RESIDENTEVIL2.jpeg"
+  },
+  {
+    "nombre": "Forza Horizon 5",
+    "precio": 2.7,
+    "descargas": 80,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/forza-horizon-5/9NNX1VVR3KNQ/0010",
+    "urlImg": "../assets/ForzaHorizon5.jpeg"
+  },
+  {
+    "nombre": "Zombie Army 4: Dead War",
+    "precio": 5.7,
+    "descargas": 40,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/zombie-army-4-dead-war/9PLSCHRN5715/0010",
+    "urlImg": "../assets/ZombieArmy4DeadWar.jpeg"
+  },
+  {
+    "nombre": "Gears of War 4",
+    "precio": 2.7,
+    "descargas": 80,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/gears-of-war-4/9NBLGGH4PBBM/0010",
+    "urlImg": "../assets/GearsofWar4.jpeg"
+  },
+  {
+    "nombre": "Among Us",
+    "precio": 6.2,
+    "descargas": 70,
+    "urlDownload": "https://www.xbox.com/es-AR/games/store/among-us/9NG07QJNK38J/0010",
+    "urlImg": "../assets/AmongUs.jpeg"
+  }
+]
