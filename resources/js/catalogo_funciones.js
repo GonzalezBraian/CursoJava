@@ -1,3 +1,11 @@
+// Si el sesionStorage es falso, redirecciona al login
+
+document.addEventListener("DOMContentLoaded", () => {
+  if (JSON.parse(localStorage.getItem("sesion")) == false) {
+    window.location.href = "../pages/login.html";
+  }
+});
+
 function insertarCard(juego, i, juegos) {
     const card = crearCard(juego);
     controlDescargas(card);

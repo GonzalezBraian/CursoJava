@@ -1,4 +1,11 @@
-
+document.addEventListener("DOMContentLoaded", () => {
+  if(localStorage.getItem('sesion') == null){
+    localStorage.setItem('sesion', false);
+  }
+  if(localStorage.getItem('users') == null){
+    localStorage.setItem('users', JSON.stringify([]));
+  }
+})
 
 // INPUTS DEL FORM
 const menuIcon = document.getElementById('menu');
