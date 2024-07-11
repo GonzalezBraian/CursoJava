@@ -2,7 +2,8 @@
 let juegos;
 
 async function cargarDatos() {
-  const response = await fetch("../data/data.json");
+  //const response = await fetch("../data/data.json");
+  const response = await fetch("http://localhost:8088/catalogo");
   juegos = await response.json();
   mostrarPorPantalla(juegos);
 }
